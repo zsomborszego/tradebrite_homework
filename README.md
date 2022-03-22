@@ -26,16 +26,16 @@ For all transaction I validate the account with the account number which is uniq
 
 ###Basic frontend design
 ####Empty account
-![](../../../Pictures/1.png)
+![](frontend/tradebrite/src/pictures/1.png)
 ####Deposit money
-![](../../../Pictures/2.png)
+![](frontend/tradebrite/src/pictures/2.png)
 ####Withdraw money
-![](../../../Pictures/3.png)
+![](frontend/tradebrite/src/pictures/3.png)
 ####Transef money
-![](../../../Pictures/4.png)
+![](frontend/tradebrite/src/pictures/4.png)
 ####Account get the transfer
-![](../../../Pictures/5.png)
+![](frontend/tradebrite/src/pictures/5.png)
 ####Register new account
-![](../../../Pictures/6.png)
+![](frontend/tradebrite/src/pictures/6.png)
 ####We can switch between account
-![](../../../Pictures/7.png)
+![](frontend/tradebrite/src/pictures/7.png)
