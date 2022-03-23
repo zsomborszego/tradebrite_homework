@@ -24,6 +24,11 @@ Bakckend account endpoints
 - /api/account/search
 - /api/account/list
 
+Tests
+![](frontend/tradebrite/src/pictures/test1.png)
+![](frontend/tradebrite/src/pictures/test2.png)
+
+
 Basic frontend design
 Empty account
 ![](frontend/tradebrite/src/pictures/1.png)
